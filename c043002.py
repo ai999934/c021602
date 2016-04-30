@@ -9,5 +9,7 @@ while(i < 202):
         a = a - A * b;
     a = a * 10;
     print A;
-    i++;
+    # i++; SyntaxError: invalid syntax
+    # Added
+    i = i + 1;
 # python c043002.py > c043002.txt
