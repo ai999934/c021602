@@ -1,3 +1,4 @@
+# External reference https://twitter.com/funmath_bot/status/255638822438703106
 # 1 / 9801 = ?
 i = 0;
 A = 0;
